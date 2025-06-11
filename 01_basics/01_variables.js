@@ -4,7 +4,7 @@ var accountPass="12345"
 accountCity="Delhi"
 let accountState
 
-//accountId=2 cannot do this due to const
+//accountId=2 .... cannot do this due to const
 
 accountEmail="hitesh@gmail.com"
 accountPass="45678"
